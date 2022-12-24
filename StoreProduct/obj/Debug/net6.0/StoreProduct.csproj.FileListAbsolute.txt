@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\bin\Debug\net6.0\StoreProduct.exe
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\bin\Debug\net6.0\StoreProduct.deps.json
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\bin\Debug\net6.0\StoreProduct.runtimeconfig.json
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\bin\Debug\net6.0\StoreProduct.dll
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\bin\Debug\net6.0\StoreProduct.pdb
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.dll
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\refint\StoreProduct.dll
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.pdb
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\StoreProduct.genruntimeconfig.cache
+C:\Users\Asus\source\repos\StoreProduct\StoreProduct\obj\Debug\net6.0\ref\StoreProduct.dll
