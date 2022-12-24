@@ -14,7 +14,7 @@ namespace StoreProduct
                 string asnwer = Console.ReadLine();
                 if (asnwer == "y")
                 {
-                    Console.WriteLine("Productun adin daxil edin:");
+                    Console.WriteLine("Productun adini daxil edin:");
                     string name = Console.ReadLine();
                     Console.WriteLine("Productun qiymetini daxil edin :");
                     double price = Convert.ToDouble(Console.ReadLine());
@@ -74,7 +74,7 @@ namespace StoreProduct
                         check = false;
                         break;
                     default:
-                        Console.WriteLine("Zehmet olmasa duzgun secim daxil edin");
+                        Console.WriteLine("Zehmet olmasa duzgun deyer daxil edin");
                         break;
                 }
             }
